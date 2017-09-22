@@ -1,2 +1,2 @@
 # hellogit
-This is just a test
+Improved readme.
